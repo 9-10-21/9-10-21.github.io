@@ -4,11 +4,10 @@
 }
 
 #preloader{
-  margin-top: 25%;
   text-decoration: none;
-  position: absolute;
+  position: fixed;
   left: 30%;
-  top: -25%;
+  top: 25%;
   text-align: center;
   font-size: 8rem;
   font-weight: bold;
