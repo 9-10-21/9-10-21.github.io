@@ -7,5 +7,5 @@ function load(){
 }
 
 function displayPage() {
-    setTimeout(function(){ load(); },3000);
+    setTimeout(function(){ load(); },2200);
 }
