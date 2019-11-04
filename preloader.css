@@ -19,6 +19,7 @@
   border: 16px solid #ffffff;
   animation: transitionOut 1s;
   animation-delay: 1300ms;
+  animation-fill-mode: forwards;
 }
 
 #prinstant-white{
