@@ -53,6 +53,7 @@
   border: none;
   user-select: none;
   outline: white;
+  z-index: 2;
   /*Backup code, don't delete:
   user-select: none;
   -moz-user-select: none;
