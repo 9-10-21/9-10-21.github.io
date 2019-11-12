@@ -1,10 +1,8 @@
-var preloader = document.getElementById('preloader')
-var page = document.getElementById('page')
-
-function load(){
-    page.style.display = "block"
+function load() {
+  document.getElementById("page").style.display = "block";
+  document.getElementById("preloader").style.display = "none";
 }
 
 function displayPage() {
-    setTimeout(function(){ load(); },2200);
+  setTimeout(function(){ load(); },2300);
 }
