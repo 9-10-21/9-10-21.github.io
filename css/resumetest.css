@@ -192,13 +192,3 @@ a:active {
     clear:right;
     margin-left:20px
 }
-
-#locator { 
-    position: absolute; 
-    visibility: visible; 
-    left: 700px; 
-    top: 300px; 
-    height: 200px; 
-    width: 200px; 
-    z-index: 200; 
-}
