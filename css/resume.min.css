@@ -207,3 +207,9 @@ a:focus,
 a:active {
     color: #824027;
 }
+
+.floatRightClear{
+    float:right;
+    clear:right;
+    margin-left:20px
+}
